@@ -15,6 +15,7 @@ public class Nocturn extends Champion {
     int paranoiaMana = 100;
 
 
+
     public Nocturn() {
         super("Nocturn", 62, 38, 32, 585, 270, (int)(62 * 1.75));
     }

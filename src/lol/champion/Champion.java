@@ -35,6 +35,11 @@ public class Champion {
         this.criticalDamage = criticalDamage;
     }
 
+    // Enum 적용
+    // 스킬 메소드 이름 수정
+    // this, super, 생성자 내용 정리
+    // 상속 받는 불필요한 변수 수정
+
     // 공격 사용 메소드
     public void attack(Champion player, Champion computer, int attackCount) {
         System.out.println("공격");
