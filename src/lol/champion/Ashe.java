@@ -2,6 +2,7 @@ package lol.champion;
 
 public class Ashe extends Champion {
 
+
      // 스킬 데미지 및 마나소비
     int RangerFocusDamage = 50;
     int RangerFocusMana = 50;
